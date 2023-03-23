@@ -15,10 +15,11 @@
 </p>
 
 <p align="center">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gustavo-Victor/github-finder?style=flat-square">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Gustavo-Victor/github-finder?style=flat-square">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Gustavo-Victor/github-finder?style=flat-square">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Gustavo-Victor/github-finder?style=flat-square">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gustavo-Victor/quote-machine?style=flat">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Gustavo-Victor/quote-machine?style=flat">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Gustavo-Victor/quote-machine?style=flat">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Gustavo-Victor/quote-machine?style=flat">
+    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Gustavo-Victor/quote-machine?style=flat">
 </p>
 
 <hr/>
@@ -26,7 +27,6 @@
 ## ❓ Sobre
 
 Este projeto é uma aplicação React que busca e exibe alguma citação aleatória de algum autor na tela do usuário. O projeto faz parte de um [desafio da freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/) no curso de bibliotecas e frameworks front-end. 
-Clique aqui para ver como o projeto ficou no [Codesandbox]() 
 
 
 ## 🎨 Layout
@@ -37,6 +37,8 @@ Clique na imagem para ir para um vídeo de demonstração do projeto
         <img width="80%" height="auto" src="./src/assets/images/screenshots/desktop.png" />
     </a>
 </p>
+
+Se quiser dê umas olhas em alguns [prints do projeto](./src/assets/images/screenshots/)
 
 ## 🛠 Tecnologias e Ferramentas
 
