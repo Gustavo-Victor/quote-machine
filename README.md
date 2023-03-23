@@ -38,7 +38,7 @@ Clique na imagem para ir para um vídeo de demonstração do projeto
     </a>
 </p>
 
-Se quiser dê umas olhas em alguns [prints do projeto](./src/assets/images/screenshots/)
+Se quiser, clique [aqui](./src/assets/images/screenshots/) para conferir alguns prints do projeto. 
 
 ## 🛠 Tecnologias e Ferramentas
 
