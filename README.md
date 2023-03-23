@@ -26,7 +26,9 @@
 
 ## ❓ Sobre
 
-Este projeto é uma aplicação React que busca e exibe alguma citação aleatória de algum autor na tela do usuário. O projeto faz parte de um [desafio da freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/) no curso de bibliotecas e frameworks front-end. 
+Este projeto é uma aplicação React que busca e exibe alguma citação aleatória de algum autor na tela do usuário. O projeto faz parte de um [desafio da freeCodeCamp](https://www.freecodecamp.org/) no curso de [bibliotecas e frameworks front-end](https://www.freecodecamp.org/learn/front-end-development-libraries/). O intuito do projeto é treinar as habilidades aprendizas durante curso. 
+
+Clique [aqui](https://codepen.io/gustavo_victor/pen/qBMJopg?editors=0011) para ver o projeto no CodePen. 
 
 
 ## 🎨 Layout
