@@ -70,13 +70,13 @@ Para abrir e executar o projeto no seu computador, você vai precisar ter o [Nod
 Após ter certeza de que tudo está instalado no seu computador, basta acompanhar os passos a seguir: 
 
 
-1. Faça download do projeto ou clone ele com o seguinte comando: 
+1. Faça download do projeto ou clone ele com o seguinte comando no terminal: 
 
 ```bash 
     git clone https://github.com/Gustavo-Victor/quote-machine.git
 ```
  
-2. Descompacte o arquivo do projeto e abra a pasta do projeto; se tiver clonado basta só abrir a pasta do projeto; você pode abrir a pasta usando um comando de terminal: 
+2. Descompacte o arquivo do projeto e abra a pasta do projeto; se tiver clonado basta só abrir a pasta do projeto; você pode abrir a pasta usando o seguinte comando: 
 
 ```bash 
     cd quote-machine/ 
@@ -85,6 +85,7 @@ Após ter certeza de que tudo está instalado no seu computador, basta acompanha
 3. Instale as dependências necessárias do projeto (a pasta do projeto precisa estar aberta no terminal): 
 
 ```bash 
+    npm i -g yarn ;
     yarn install 
 ```
 
